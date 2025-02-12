@@ -4,6 +4,12 @@ public class Tes {
     }
 }
 
-// git add .
-// git commit -m "this is your message"
-// git push origin master or git push origin main (depends on your branch)
+// # push from terminal:
+//  git add .
+//  git commit -m "this is your message"
+//  git push -u origin
+
+// # push a part of folder or project 
+//  ctrl + shift + back tick
+
+
